@@ -1,0 +1,2 @@
+
+kubectl port-forwa5c69rd nats-depl-74d55c69db-dlfls 4222:4222 
